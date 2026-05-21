@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="add_city">Добавь свой город</string>
+    <string name="enter_city_name">Введи название города</string>
+    <string name="search">Поиск</string>
+    <string name="loading">Загрузка...</string>
+    <string name="error">Ошибка</string>
+    <string name="retry">Повторить</string>
+    <string name="no_cities">Нет городов</string>
+    <string name="remove_city">Удалить город</string>
+    <string name="temperature">Температура</string>
+    <string name="forecast">Прогноз</string>
+    <string name="current">Сейчас</string>
+    <string name="unknown">Неизвестно</string>
+</resources>
